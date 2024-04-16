@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @AlexandreBoult
 Here is a list of some of my projects : 
 - [MoodMatrix](https://github.com/data-IA-2023/MoodMatrix)
-- [Python](https://github.com/AlexandreBoult/Python-tests)
+- [Python fun](https://github.com/AlexandreBoult/Python-tests)
 - [Webfloox](https://github.com/data-IA-2023/Groupe1_Webfloox)
 - ...
 
