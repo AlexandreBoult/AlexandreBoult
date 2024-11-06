@@ -1,7 +1,8 @@
 # 👋 Hi, I’m @AlexandreBoult
 Here is a list of some of my projects : 
 - [AutoML](https://github.com/data-IA-2023/AutoML-Gr4/tree/alexandre)
-  AutoML is a learning project trying to make a webapp where people can process data and train some ML models. It's main inspiration is Dataiku DSS and it uses pandas and sklearn to process data in the backend.
+  AutoML is a learning project trying to make a webapp where people can process data and train some ML models.
+  It's main inspiration is Dataiku DSS and it uses pandas and sklearn to process data in the backend.
   <img src="media/auto_ml_1.png" alt="" title="">
 - [MoodMatrix](https://github.com/data-IA-2023/MoodMatrix)
 - [Python fun](https://github.com/AlexandreBoult/Python-tests)
